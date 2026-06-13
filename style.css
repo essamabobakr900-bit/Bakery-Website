@@ -846,4 +846,35 @@ img {
     .visit__content{
         grid-template-columns: 480px;
     }
+
+    .footer{
+        padding-block: 5rem 3rem;
+    }
+    .footer__logo,
+    .footer__title{
+        margin-bottom: 1.5rem;
+    }
+    .footer__content{
+        column-gap: 4.5rem;
+    }
+    .footer__social{
+        column-gap: 1.5rem;
+    }
+    .footer__img-1{
+        width: 90px;
+        right: initial;
+        left: 15rem;
+    }
+    .footer__img-2{
+        width: 90%;
+        left: initial;
+        right: 7rem;
+    }
+    .footer__copy{
+        margin-top: 8rem;
+    }
+    
+    .scrollup{
+        right: 3rem;
+    }
 }
