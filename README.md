@@ -1,5 +1,6 @@
 <img width="822" height="419" alt="image" src="https://github.com/user-attachments/assets/ecc24add-2412-43b0-b241-8175a7ed5a63" />
-# Bakery Shop Website
+
+## Bakery Shop Website
 
 ## Overview
 
