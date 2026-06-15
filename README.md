@@ -20,9 +20,14 @@ The Bakery Shop Website is a modern and responsive website designed to showcase 
 * CSS3
 * JavaScript
 
-## Author
+## Usage
 
 Developed as a bakery shop website project by enhancing the marketing startegy of the shop.
+
+## Author
+
+Abobakr Essam
+
 
 ## Website Pictures
 <img width="437" height="366" alt="image" src="https://github.com/user-attachments/assets/1088edd8-b0ac-4840-ba72-cb4c9b43bc65" />
