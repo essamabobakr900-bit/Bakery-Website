@@ -878,3 +878,26 @@ img {
         right: 3rem;
     }
 }
+.favorite__img-2,
+.favorite__img-1{
+    width: 320px;
+    position: absolute;
+    top: -2rem;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.favorite__img-1{
+    padding-top: 2rem;
+}
+.favorite__img-3{
+    width: 130px;
+    position: absolute;
+    top: -2rem;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.new__img-1{
+    width: 300px;
+}
