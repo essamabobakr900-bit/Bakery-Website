@@ -1,4 +1,4 @@
-<img width="822" height="419" alt="image" src="https://github.com/user-attachments/assets/ecc24add-2412-43b0-b241-8175a7ed5a63" />
+<img width="688" height="365" alt="image" src="https://github.com/user-attachments/assets/9d4398db-84a4-4cdf-b2fe-62a5d99c0831" />
 
 ## Bakery Shop Website
 
@@ -30,10 +30,10 @@ Abobakr Essam
 
 
 ## Website Pictures
-<img width="437" height="366" alt="image" src="https://github.com/user-attachments/assets/1088edd8-b0ac-4840-ba72-cb4c9b43bc65" />
-<img width="454" height="253" alt="image" src="https://github.com/user-attachments/assets/0e38d24a-0005-4cda-8ef3-2512fefaed5d" />
-<img width="699" height="421" alt="image" src="https://github.com/user-attachments/assets/20c43e7e-948d-4f60-b60d-5fbaf48d72da" />
-<img width="803" height="368" alt="image" src="https://github.com/user-attachments/assets/3531bde4-0e9d-4e3d-b8ef-09ba9d12b6e0" />
+<img width="687" height="425" alt="image" src="https://github.com/user-attachments/assets/770aa3bb-7895-4fe7-ab32-58ac428c2bca" />
+<img width="691" height="361" alt="image" src="https://github.com/user-attachments/assets/fee66ea0-bc70-4028-b848-5709a136857e" />
+<img width="588" height="428" alt="image" src="https://github.com/user-attachments/assets/b36fb51c-0142-41a2-b329-af6fdebe3f59" />
+<img width="710" height="410" alt="image" src="https://github.com/user-attachments/assets/7db08529-f13c-4138-b64f-ca233cb75ad7" />
 
 
 
